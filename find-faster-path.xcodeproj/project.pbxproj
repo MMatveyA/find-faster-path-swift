@@ -48,6 +48,7 @@
 				BA28604D2CC300DE00353322 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		BA28604D2CC300DE00353322 /* Products */ = {
 			isa = PBXGroup;
